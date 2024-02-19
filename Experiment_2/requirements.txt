@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+datasets
+pymupdf
+nltk
+numpy
+pandas
+scikit_learn
+sentence_transformers
+transformers
+transformers[torch]
